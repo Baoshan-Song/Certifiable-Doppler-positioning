@@ -21,3 +21,7 @@ This project requires [CVX](https://cvxr.com/cvx/doc/install.html), a package fo
 ## Citation
 
 If you find this repository useful, please consider citing or referencing it in your work. Questions or suggestions are welcome via issue or pull request.
+
+## License
+[Specify your license here, e.g., MIT, if any]
+The Certifiable-Doppler-positioning software package is distributed under GPL v3 license. Users are freedom to modify and distribute the software as they see fit, provided that they adhere to the terms and conditions set forth in the license. This includes the ability to incorporate or use Certifiable-Doppler-positioning with other software, whether for non-commercial or commercial purposes. However, any modifications or derivative works must also be distributed under the GPL v3 license, ensuring that the software remains free and accessible to all users.
